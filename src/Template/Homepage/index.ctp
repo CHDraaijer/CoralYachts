@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<?php
-/**
- * @var \App\View\AppView $this
- * @var \App\Model\Entity\Homepage[]|\Cake\Collection\CollectionInterface $homepage
- */
-?>
+
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
 
